@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Lakshit 👋</h1>
 <h3 align="center">HUSTLER | ACHIEVER | STUDENT</h3>
 
-- 👨‍🎓 I’m currently pursuing **Bachelor's of Computer Applications**
+- 👨‍🎓Pursuing **Bachelor's of Computer Applications**
 
 - 🌱 I’m currently learning **Web development**
 
