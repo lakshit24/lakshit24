@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👯 I’m looking to collaborate on **HTML and CSS projects**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 - 👨‍💻 All of my projects are available at [www.behance.net/lakshit24 , www.codepen.io/lak24]
 
