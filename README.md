@@ -1,11 +1,14 @@
-
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Lakshit</h1>
-<h3 align="center">Computer Applications Student</h3>
 
+## 📖 About me
 🌱 I’m currently into **Software Development**
 
+🎓 I'm a Computer Applications student (graduating in 2022)
 
-<h3 align="left">Languages and Tools:</h3>
+🎨 I'm a self-taught Graphic Designer
+
+## 👨‍💻 Languages and Tools
 <p align="left"> 
   </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -17,10 +20,10 @@
 </a>
 </p>
 
-<h3 align="left">Softwares:</h3>
+## 💻 Softwares
  </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
-<h3 align="left">Connect with me:</h3>
+## 🙋‍♂️ Connect with me
 <p align="left">
 <a href="https://codepen.io/lak24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lak24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakshit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshit singh" height="30" width="40" /></a>
