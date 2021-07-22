@@ -1,13 +1,9 @@
 <h1 align="center">Hi , I'm Lakshit 👋</h1>
 <h3 align="center">HUSTLER | ACHIEVER | STUDENT</h3>
 
-- 👨‍🎓Pursuing **Bachelor's of Computer Applications**
+- 👨‍🎓**Computer Applications Student**
 
-- 🌱 I’m currently learning **Web development**
-
-- 👯 I’m looking to collaborate on **Web Development projects**
-
-- 👨‍💻 All of my projects are available at [www.behance.net/lakshit24 , www.codepen.io/lak24]
+- 🌱 I’m currently learning **Software development**
 
 - 💬 Ask me about **Graphic Designing and Web Development**
 
