@@ -6,7 +6,7 @@
 
 🎓 I'm a Computer Applications student (graduating in 2022)
 
-🎨 I'm a self-taught Graphic Designer
+🎨 Also I'm a self-taught Graphic Designer
 
 ## 👨‍💻 Languages and Tools
 <p align="left"> 
