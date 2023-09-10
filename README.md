@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Lakshit</h1>
 
 ## 📖 About me
-🌱 I’m currently into **Software Development**
 
-🎓 I'm a Computer Applications student (graduating in 2022)
+🎓 Pursuing Masters in Computer Applications
 
-🎨 Also I'm a self-taught Graphic Designer
 
 ## 👨‍💻 Languages and Tools
 <p align="left"> 
